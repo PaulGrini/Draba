@@ -26,17 +26,17 @@ Step 1: Sequenced reads were trimmed with cutadapt version 1.18 (Martin, 2011) u
 
 <br>
 <b>Supplementary Methods References</b>
-van Ekelenburg YS, Hornslien KS, Van Hautegem T, Fendrych M, Van Isterdael G, Bjerkan KN, Miller JR, Nowack MK, Grini PE. 2023. Spatial and temporal regulation of parent-of-origin allelic expression in the endosperm. Plant physiology 191: 986–1001.
-Hornslien KS, Miller JR, Grini PE. 2019. Regulation of Parent-of-Origin Allelic Expression in the Endosperm. Plant physiology 180: 1498 LP – 1519.
-Kassambara A. 2023. ggpubr: “ggplot2” Based Publication Ready Plots.
-Krueger FT, Seminowicz D, Goldapple K, Kennedy SH, Mayberg HS, Donegan NH, Sanislow CA, Blumberg HP, Fulbright RK, Lacadie C. 2012. Internet. GitHub Repository.
-Langmead B, Salzberg SL. 2012. Fast gapped-read alignment with Bowtie 2. Nature methods 9: 357–359.
-Love MI, Huber W, Anders S. 2014. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome biology 15: 550.
-Martin M. 2011. Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet.journal; Vol 17, No 1: Next Generation Sequencing Data Analysis.
-Nowak MD, Birkeland S, Mandáková T, Roy Choudhury R, Guo X, Gustafsson ALS, Gizaw A, Schrøder-Nielsen A, Fracassetti M, Brysting AK, et al. 2020. The genome of Draba nivalis shows signatures of adaptation to the extreme environmental stresses of the Arctic. Molecular ecology resources n/a.
-Ritchie ME, Phipson B, Wu D, Hu Y, Law CW, Shi W, Smyth GK. 2015. limma powers differential expression analyses for RNA-sequencing and microarray studies. Nucleic acids research 43: e47–e47.
-RStudio Team. 2023. RStudio: Integrated Development Environment for R.
-Walker BJ, Abeel T, Shea T, Priest M, Abouelliel A, Sakthikumar S, Cuomo CA, Zeng Q, Wortman J, Young SK, et al. 2014. Pilon: An Integrated Tool for Comprehensive Microbial Variant Detection and Genome Assembly Improvement. PloS one 9: e112963.
-Wickham H. 2016. ggplot2: Elegant Graphics for Data Analysis.
-Zhu A, Ibrahim JG, Love MI. 2019. Heavy-tailed prior distributions for sequence count data: removing the noise and preserving large differences. Bioinformatics  35: 2084–2092.
+<br><br>van Ekelenburg YS, Hornslien KS, Van Hautegem T, Fendrych M, Van Isterdael G, Bjerkan KN, Miller JR, Nowack MK, Grini PE. 2023. Spatial and temporal regulation of parent-of-origin allelic expression in the endosperm. Plant physiology 191: 986–1001.
+<br><br>Hornslien KS, Miller JR, Grini PE. 2019. Regulation of Parent-of-Origin Allelic Expression in the Endosperm. Plant physiology 180: 1498 LP – 1519.
+<br><br>Kassambara A. 2023. ggpubr: “ggplot2” Based Publication Ready Plots.
+<br><br>Krueger FT, Seminowicz D, Goldapple K, Kennedy SH, Mayberg HS, Donegan NH, Sanislow CA, Blumberg HP, Fulbright RK, Lacadie C. 2012. Internet. GitHub Repository.
+<br><br>Langmead B, Salzberg SL. 2012. Fast gapped-read alignment with Bowtie 2. Nature methods 9: 357–359.
+L<br><br>ove MI, Huber W, Anders S. 2014. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome biology 15: 550.
+<br><br>Martin M. 2011. Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet.journal; Vol 17, No 1: Next Generation Sequencing Data Analysis.
+<br><br>Nowak MD, Birkeland S, Mandáková T, Roy Choudhury R, Guo X, Gustafsson ALS, Gizaw A, Schrøder-Nielsen A, Fracassetti M, Brysting AK, et al. 2020. The genome of Draba nivalis shows signatures of adaptation to the extreme environmental stresses of the Arctic. Molecular ecology resources n/a.
+<br><br>Ritchie ME, Phipson B, Wu D, Hu Y, Law CW, Shi W, Smyth GK. 2015. limma powers differential expression analyses for RNA-sequencing and microarray studies. Nucleic acids research 43: e47–e47.
+<br><br>RStudio Team. 2023. RStudio: Integrated Development Environment for R.
+<br><br>Walker BJ, Abeel T, Shea T, Priest M, Abouelliel A, Sakthikumar S, Cuomo CA, Zeng Q, Wortman J, Young SK, et al. 2014. Pilon: An Integrated Tool for Comprehensive Microbial Variant Detection and Genome Assembly Improvement. PloS one 9: e112963.
+<br><br>Wickham H. 2016. ggplot2: Elegant Graphics for Data Analysis.
+<br><br>Zhu A, Ibrahim JG, Love MI. 2019. Heavy-tailed prior distributions for sequence count data: removing the noise and preserving large differences. Bioinformatics  35: 2084–2092.
 
