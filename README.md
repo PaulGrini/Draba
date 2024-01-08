@@ -1,4 +1,4 @@
-Low parental conflict, no endosperm hybrid barriers, and maternal bias in genomic imprinting in selfing Draba species
+<b>Low parental conflict, no endosperm hybrid barriers, and maternal bias in genomic imprinting in selfing Draba species</b>
 
 
 Renate M. Alling1,2, Katrine N. Bjerkan1,2, Jonathan Bramsiepe1, Michael D. Nowak3, A. Lovisa S. Gustafsson3, Christian Brochmann3, Anne K. Brysting1,2 and Paul E. Grini1,4
