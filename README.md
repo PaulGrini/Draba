@@ -8,7 +8,9 @@ Renate M. Alling1,2, Katrine N. Bjerkan1,2, Jonathan Bramsiepe1, Michael D. Nowa
 3 Natural History Museum, University of Oslo, 0318 Oslo, Norway
 4 Corresponding author, paul.grini@ibv.uio.no
 
-
+<br><br><br><br>
+<b>For Supplementary Data Files, see directory "Supplementary Data Files Alling et al."</b>
+<br><br><br><br>
 <b>Supporting information for the analysis of imprinting in Draba nivalis. </b>
 
 <b>Step 1</b>: Sequenced reads were trimmed with cutadapt version 1.18 (Martin, 2011) using TrimGalore version 0.6.2 (Krueger et al., 2012) with the following parameters --paired -j 6.
