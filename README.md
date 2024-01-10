@@ -17,6 +17,7 @@ doi: https://doi.org/10.1101/2024.01.08.574548
 <br>
 <b>For Supplementary Data Files, see directory "Supplementary Data Files Alling et al."</b>
 <br>
+<br>
 <b>Supporting information for the analysis of imprinting in Draba nivalis. </b>
 
 <b>Step 1</b>: Sequenced reads were trimmed with cutadapt version 1.18 (Martin, 2011) using TrimGalore version 0.6.2 (Krueger et al., 2012) with the following parameters --paired -j 6.
