@@ -8,7 +8,12 @@ Renate M. Alling1,2, Katrine N. Bjerkan1,2, Jonathan Bramsiepe1, Michael D. Nowa
 3 Natural History Museum, University of Oslo, 0318 Oslo, Norway
 4 Corresponding author, paul.grini@ibv.uio.no
 
-<br><br><br><br>
+<br><br>
+
+https://www.biorxiv.org/content/10.1101/2024.01.08.574548v1
+<br>doi: https://doi.org/10.1101/2024.01.08.574548 </br>
+
+<br><br>
 <b>For Supplementary Data Files, see directory "Supplementary Data Files Alling et al."</b>
 <br><br><br><br>
 <b>Supporting information for the analysis of imprinting in Draba nivalis. </b>
